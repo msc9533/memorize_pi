@@ -1,8 +1,8 @@
 # memorize_pi
 
-Simple memorizing pi game for androids phone.  
+Simple game of memorize pi for Android OS.  
 
-[DOWNLOAD APK]()
+[DOWNLOAD APK](https://github.com/msc9533/memorize_pi/raw/master/pi_memo.apk)
 
 ## Practice mode
 
